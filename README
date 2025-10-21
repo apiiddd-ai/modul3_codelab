@@ -1,3 +1,14 @@
-konrtolda
-d
-a
+# DocumentationPractice
+
+Proyek ini dibuat untuk mempelajari dasar penggunaan **README** dalam dokumentasi perangkat lunak
+pada mata kuliah *Pemrograman Lanjut Modul 3*.
+
+## 🧩 Deskripsi
+Program sederhana ini hanya menampilkan pesan ke layar untuk mendemonstrasikan dokumentasi proyek.
+
+```java
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Dokumentasi dengan README.md!");
+    }
+}
