@@ -1,14 +1,17 @@
+
 # DocumentationPractice
 
-Proyek ini dibuat untuk mempelajari dasar penggunaan **README** dalam dokumentasi perangkat lunak
-pada mata kuliah *Pemrograman Lanjut Modul 3*.
+Proyek ini dibuat untuk latihan dokumentasi pada mata kuliah *Pemrograman Lanjut (Modul 3).*
 
-## 🧩 Deskripsi
-Program sederhana ini hanya menampilkan pesan ke layar untuk mendemonstrasikan dokumentasi proyek.
+## Deskripsi
+Program ini menampilkan pesan sederhana ke layar. Tujuannya adalah memahami bagaimana cara membuat dokumentasi menggunakan *README.md.*
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Dokumentasi dengan README.md!");
-    }
-}
+## Cara Menjalankan
+1. Clone repositori ini
+2. Buka di IntelliJ IDEA
+3. Jalankan `Main.java`
+
+## Pengembang
+Nama: Muhammad Hafidzal Rahmadi
+NIM: 202410370110392
+Prodi Informatika – Universitas Muhammadiyah Malang
